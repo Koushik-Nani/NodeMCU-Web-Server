@@ -12,3 +12,7 @@ Assume you entered a URL like http://192.168.1.1/ledon into a browser. The brows
 
 ![image](Capture1.PNG)
 
+### Accessing the Web Server
+
+![image](Capture2.PNG)
+
